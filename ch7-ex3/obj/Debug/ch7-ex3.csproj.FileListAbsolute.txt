@@ -1,0 +1,17 @@
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\bin\Debug\ch7-ex3.exe.config
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.csprojResolveAssemblyReference.cache
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7_ex3.Properties.Resources.resources
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.csproj.GenerateResource.Cache
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\bin\Debug\ch7-ex3.exe
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\bin\Debug\ch7-ex3.pdb
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.exe
+C:\Users\Coca\Documents\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.pdb
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\bin\Debug\ch7-ex3.exe.config
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.exe
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.pdb
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\bin\Debug\ch7-ex3.exe
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\bin\Debug\ch7-ex3.pdb
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7_ex3.Form1.resources
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7_ex3.Properties.Resources.resources
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3\obj\Debug\ch7-ex3.csproj.GenerateResource.Cache
