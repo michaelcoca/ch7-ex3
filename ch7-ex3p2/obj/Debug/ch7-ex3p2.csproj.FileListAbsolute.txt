@@ -6,3 +6,6 @@ C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3p2\obj\Deb
 C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.csproj.GenerateResource.Cache
 C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.exe
 C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.pdb
+C:\Users\mcoca\Source\Repos\ch7-ex3\ch7-ex3p2\bin\Debug\ch7-ex3p2.exe.config
+C:\Users\mcoca\Source\Repos\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.exe
+C:\Users\mcoca\Source\Repos\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.pdb
