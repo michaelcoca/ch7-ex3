@@ -19,6 +19,9 @@
             get { return name; }
         }
 
+        /// <summary>
+        /// List of exits. 
+        /// </summary>
         public Location[] Exits;
 
         public virtual string Description 
