@@ -20,7 +20,7 @@
         }
 
         /// <summary>
-        /// List of exits. 
+        /// Array of exits. 
         /// </summary>
         public Location[] Exits;
 
