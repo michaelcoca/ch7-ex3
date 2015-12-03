@@ -1,6 +1,6 @@
 ﻿namespace ch7_ex3p2
 {
-    class RoomWithDoor:Room,IHasExteriorDoor
+    class RoomWithDoor:RoomWithHidingPlace,IHasExteriorDoor
     {
         public RoomWithDoor(string name, string decoration, string doorDescription):base(name, decoration)
         {

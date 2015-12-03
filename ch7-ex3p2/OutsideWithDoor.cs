@@ -1,6 +1,6 @@
 ﻿namespace ch7_ex3p2
 {
-    public class OutsideWithDoor:Outside, IHasExteriorDoor
+    public class OutsideWithDoor:OutsideWithHidingPlace, IHasExteriorDoor
     {
         public OutsideWithDoor(string name, bool hot, string doorDescription):base(name, hot)
         {
