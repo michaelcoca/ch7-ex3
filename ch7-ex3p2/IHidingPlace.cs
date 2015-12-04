@@ -8,6 +8,6 @@ namespace ch7_ex3p2
 {
     interface IHidingPlace
     {
-        string Name { get; }
+        string HidingPlaceName { get; }
     }
 }

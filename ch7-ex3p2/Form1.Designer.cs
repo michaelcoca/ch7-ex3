@@ -41,7 +41,6 @@
             this.description.Name = "description";
             this.description.Size = new System.Drawing.Size(363, 134);
             this.description.TabIndex = 0;
-            this.description.TextChanged += new System.EventHandler(this.description_TextChanged);
             // 
             // goHere
             // 
@@ -83,7 +82,6 @@
             this.Controls.Add(this.description);
             this.Name = "Form1";
             this.Text = "Explore the House";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

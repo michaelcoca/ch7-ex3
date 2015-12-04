@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ch7_ex3p2
 {
-    public class OutsideWithHidingPlace:Outside, IHidingPlace
+    public class RoomWithHidingPlace : Room, IHidingPlace
     {
         private string hidingPlaceName;
 
@@ -16,8 +16,7 @@ namespace ch7_ex3p2
             set { hidingPlaceName = value; }
         }
 
-        public OutsideWithHidingPlace(string name, bool hot):base(name, hot)
+        public RoomWithHidingPlace(string name, string decoration) : base(name, decoration)
         { }
-
     }
 }
