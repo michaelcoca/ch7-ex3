@@ -71,6 +71,7 @@ namespace ch7_ex3p2
             description.Text = currentLocation.Description;
 
             goThroughTheDoor.Visible = (currentLocation is IHasExteriorDoor);
+            check.Visible = (currentLocation is IHidingPlace);
         }
 
         private void goHere_Click(object sender, EventArgs e)
@@ -89,12 +90,31 @@ namespace ch7_ex3p2
 
         private void check_Click(object sender, EventArgs e)
         {
+            bool isFound = opponent.Check(currentLocation);
+            if (isFound)
+                ResetGame();
+        }
 
+        private void ResetGame()
+        {
+            throw new NotImplementedException();
+        }
+
+        private void RedrawForm()
+        {
+            throw new NotImplementedException();
         }
 
         private void hide_Click(object sender, EventArgs e)
         {
             opponent = new Opponent(frontYard);
+            for (int i = 0; i < 10; i++)
+            {
+                int theCount = i + 1;
+                description.Text = theCount.ToString();
+                Application.DoEvents();
+                System.Threading.Thread.Sleep(200);
+            }
         }
     }
 }
