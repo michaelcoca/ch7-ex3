@@ -12,3 +12,6 @@ C:\Users\mcoca\Source\Repos\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.pdb
 C:\Users\Coca\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\bin\Debug\ch7-ex3p2.exe.config
 C:\Users\Coca\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.exe
 C:\Users\Coca\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.pdb
+C:\Users\Coca7\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\bin\Debug\ch7-ex3p2.exe.config
+C:\Users\Coca7\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.exe
+C:\Users\Coca7\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.pdb
