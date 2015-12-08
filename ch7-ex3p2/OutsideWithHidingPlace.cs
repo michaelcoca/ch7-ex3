@@ -16,8 +16,17 @@ namespace ch7_ex3p2
             set { hidingPlaceName = value; }
         }
 
-        public OutsideWithHidingPlace(string name, bool hot):base(name, hot)
-        { }
+        public OutsideWithHidingPlace(string name, bool hot, string hidingPlaceName) :base(name, hot)
+        {
+            this.hidingPlaceName = hidingPlaceName;
+        }
 
+        public override string Description
+        {
+            get
+            {
+                return base.Description + " Someone could hide in " + hidingPlaceName + ". ";
+            }
+        }
     }
 }

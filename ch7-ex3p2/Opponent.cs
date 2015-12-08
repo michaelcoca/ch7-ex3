@@ -9,20 +9,7 @@ namespace ch7_ex3p2
     public class Opponent
     {
         private Location myLocation;
-
-        //public Location MyLocation
-        //{
-        //    get { return myLocation; }
-        //    set { myLocation = value; }
-        //}
-
         private Random random;
-
-        //public Random MyRandom
-        //{
-        //    get { return random; }
-        //    set { random = value; }
-        //}
 
         public Opponent(Location myLocation)
         {
@@ -30,21 +17,18 @@ namespace ch7_ex3p2
             this.random = new Random();
         }
 
-        private void Move()
+        public void Move()
         {
             if (myLocation is IHasExteriorDoor && random.Next(2) == 1)
             {
                 IHasExteriorDoor locationWithExteriorDoor = myLocation as IHasExteriorDoor;
                 myLocation = locationWithExteriorDoor.DoorLocation;
             }
-            else
+
+            do
             {
-                //bool hidingPlaceFound = false;
-                do
-                {
-                    myLocation = myLocation.Exits[random.Next(myLocation.Exits.Count())];
-                } while (!(myLocation is IHidingPlace));
-            }
+                myLocation = myLocation.Exits[random.Next(myLocation.Exits.Length)];
+            } while (!(myLocation is IHidingPlace));
         }
 
         public bool Check(Location location)

@@ -15,3 +15,4 @@ C:\Users\Coca\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2
 C:\Users\Coca7\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\bin\Debug\ch7-ex3p2.exe.config
 C:\Users\Coca7\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.exe
 C:\Users\Coca7\Documents\GitHubVisualStudio\ch7-ex3\ch7-ex3p2\obj\Debug\ch7-ex3p2.pdb
+C:\Users\Public\Documents\mac\programming\hfcsharp\ch7\ch7-ex3\ch7-ex3p2\obj\Debug\ch7_ex3p2.Form1.resources
